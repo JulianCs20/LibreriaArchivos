@@ -1,0 +1,20 @@
+       
+
+        // Ejemplo de uso
+      
+         //txtLibreria.eliminarArchivo("Ruta del archivo");
+               
+         //txtLibreria.copiarYPegarArchivo("Ruta del archivo");
+         
+         //txtLibreria.moverArchivo("Ruta del archivo");
+         
+         //txtLibreria.crearArchivo("Ruta del archivo");
+         
+         //txtLibreria.lectorTxt("Ruta del archivo");
+         //String contenido = txtLibreria.leerTxt();
+         //System.out.println("Contenido del archivo:");
+         //System.out.println(contenido);
+         
+         //String contenido =" Contenido para el archivo"; 
+         //String rutaArchivo= "Ruta del archivo";
+         //txtLibreria.escribirEnArchivo(contenido, rutaArchivo);
